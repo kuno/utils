@@ -1,5 +1,6 @@
 utils
 =====
+* wav2mp3.sh -- convert wav to mp3
 
 * wma2mp3.sh -- convert wma to mp3
 
