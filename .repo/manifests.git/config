@@ -1,9 +1,0 @@
-[core]
-	repositoryformatversion = 0
-	filemode = true
-[remote "origin"]
-	url = git@github.com:kuno/utils.git
-	fetch = +refs/heads/*:refs/remotes/origin/*
-[branch "default"]
-	remote = origin
-	merge = refs/heads/master
